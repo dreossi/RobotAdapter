@@ -1,0 +1,14 @@
+Small unicycle robot simulator 
+
+To randomly drive the robot around the targets
+--
+1) Run rnd_tours
+
+To monitor online and offline a robot trajectory
+--
+1) Edit monitor_trace specifying the path where Breach is
+2) Run monitor_trace
+
+
+To modify targets edit load_targets.m
+To modify obstacles edit load_obstacles.m
